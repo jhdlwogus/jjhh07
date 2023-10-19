@@ -1,0 +1,8 @@
+﻿  canvas.c
+  jjuggumi.c
+E:\대학\56156124954\56156124954\jjuggumi.c(50,6): warning C4101: 'winer' :참조되지 않은 지역 변수입니다.
+  keyin.c
+  mugunghwa.c
+  sample.c
+  코드를 생성하고 있습니다...
+  56156124954.vcxproj -> E:\대학\56156124954\x64\Debug\56156124954.exe
